@@ -1,2 +1,2 @@
-# note-practise
+# note
 For Data Science
